@@ -1,0 +1,11 @@
+services:
+  lab:
+    build: .
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/lab/notebooks
+      - ./spikecore:/lab/spikecore
+      - ./tests:/lab/tests
+    environment:
+      - PYTHONDONTWRITEBYTECODE=1

@@ -122,10 +122,10 @@ neuromorphic-lab/
 
 ## References
 
-- [TVM BYOC Documentation](https://tvm.apache.org/docs/dev/how_to/relay_bring_your_own_codegen.html)
+- [Apache TVM Documentation](https://tvm.apache.org/docs/index.html)
 - [Intel Loihi 2 Architecture](https://www.intel.com/content/www/us/en/research/neuromorphic-computing.html)
 - [Lava Software Framework](https://github.com/lava-nc/lava)
-- [TVM Relay IR Specification](https://tvm.apache.org/docs/reference/langref/relay_expr.html)
-- [Quantization in TVM](https://tvm.apache.org/docs/how_to/deploy_models/deploy_quantized.html)
-- Davies et al., "Loihi: A Neuromorphic Manycore Processor with On-Chip Learning" (IEEE Micro, 2018)
-- Orchard et al., "Efficient Neuromorphic Signal Processing with Loihi 2" (IEEE, 2021)
+- [TVM Design and Architecture](https://tvm.apache.org/docs/arch/index.html)
+- [Davies et al., "Loihi: A Neuromorphic Manycore Processor with On-Chip Learning" (IEEE Micro, 2018)](https://redwood.berkeley.edu/wp-content/uploads/2021/08/Davies2018.pdf)
+- [Orchard et al., "Efficient Neuromorphic Signal Processing with Loihi 2" (IEEE, 2021)](https://ieeexplore.ieee.org/document/9605018)
+
